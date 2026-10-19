@@ -1,0 +1,11 @@
+{
+  "transporte": "stdio",
+  "servidor": "notas-mcp",
+  "resources": [
+    "notas://minhas-notas"
+  ],
+  "resource_lido": "notas://minhas-notas",
+  "conteudo_chars": 706,
+  "conteudo_linhas": 6,
+  "primeira_linha": "Pontos importantes da aula:"
+}
